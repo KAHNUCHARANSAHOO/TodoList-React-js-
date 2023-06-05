@@ -1,3 +1,64 @@
+
+TodoList-React-js
+
+Description
+
+TodoList-React-js is a simple and intuitive to-do list application built using React.js. It provides a user-friendly interface for managing and organizing your tasks efficiently. With this application, you can create, update, and delete tasks seamlessly.
+
+Features
+
+Task Management: Create, edit, and delete tasks easily. You can add a title, description, due date, and priority to each task.
+
+Task Filtering: Filter your tasks based on their status (completed, pending) or priority (high, medium, low).
+
+Task Sorting: Sort your tasks by due date or priority to focus on the most important ones.
+
+Responsive Design: The application is built with a responsive design, ensuring a seamless user experience on various devices, including desktops, tablets, and mobile devices.
+
+Local Storage: The tasks you create are stored in the browser's local storage, allowing you to access them even after refreshing the page or closing the browser.
+
+User-Friendly Interface: The application has a clean and intuitive user interface, making it easy for users to interact with their tasks and manage them efficiently.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
